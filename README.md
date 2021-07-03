@@ -81,23 +81,11 @@ federated learning](https://arxiv.org/pdf/2006.07242.pdf). Lin, T., Kong, L., St
 65. [Data-free knowledge distillation for deep neural networks](https://arxiv.org/pdf/1710.07535.pdf). Lopes, R. G., Fenu, S. & Starner, T. (2017).NeurIPS.
 66. [Unifying distillation and privileged information](https://arxiv.org/pdf/1511.03643.pdf). Lopez-Paz, D., Bottou, L., Sch¨olkopf, B. & Vapnik, V. (2016).ICLR.
 67. [Knowledge distillation for small-footprint highway networks](https://arxiv.org/pdf/1608.00892.pdf). Lu, L., Guo, M. & Renals, S. (2017).ICASSP.
-68. [Face model compression by distilling knowledge from neurons](). Luo, P., Zhu, Z., Liu, Z., Wang, X. & Tang, X. (2016).
-. In: AAAI.
-Luo, S., Pan, W., Wang, X., Wang, D., Tang, H., &
-Song, M. (2020). Collaboration by Competition: Selfcoordinated
-Knowledge Amalgamation for Multitalent
-Student Learning. In: ECCV.
-Luo, S., Wang, X., Fang, G., Hu, Y., Tao, D., &
-Song, M. (2019). Knowledge amalgamation from
-heterogeneous networks by common feature learning.
-In: IJCAI.
-Luo, Z., Hsieh, J. T., Jiang, L., Carlos Niebles, J.& Fei-
-Fei, L. (2018). Graph distillation for action detection
-with privileged modalities. In: ECCV.
-Macko, V., Weill, C., Mazzawi, H. & Gonzalvo,
-J. (2019). Improving neural architecture search
-image classifiers via ensemble learning. In: NeurIPS
-Workshop.
-Ma, J., & Mei, Q. (2019). Graph representation learning
-via multi-task knowledge distillation. arXiv preprint
-arXiv:1911.05700.
+68. [Face model compression by distilling knowledge from neurons](https://ojs.aaai.org/index.php/AAAI/article/view/10449/10308). Luo, P., Zhu, Z., Liu, Z., Wang, X. & Tang, X. (2016).AAAI.
+69. [Collaboration by Competition: Selfcoordinated Knowledge Amalgamation for Multitalent Student Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510630.pdf). Luo, S., Pan, W., Wang, X., Wang, D., Tang, H., & Song, M. (2020).ECCV.
+70. [Knowledge amalgamation from heterogeneous networks by common feature learning](https://arxiv.org/pdf/1906.10546.pdf). Luo, S., Wang, X., Fang, G., Hu, Y., Tao, D., &
+Song, M. (2019).IJCAI.
+71. [Graph distillation for action detection with privileged modalities](https://arxiv.org/pdf/1712.00108.pdf). Luo, Z., Hsieh, J. T., Jiang, L., Carlos Niebles, J.& Fei-
+Fei, L. (2018).ECCV.
+72. [Improving neural architecture search image classifiers via ensemble learning](https://arxiv.org/pdf/1903.06236.pdf). Macko, V., Weill, C., Mazzawi, H. & Gonzalvo, J. (2019).NeurIPS Workshop.
+73. [Graph representation learning via multi-task knowledge distillation](https://arxiv.org/pdf/1911.05700.pdf). Ma, J., & Mei, Q. (2019).
