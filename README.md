@@ -71,3 +71,33 @@ federated learning](https://arxiv.org/pdf/2006.07242.pdf). Lin, T., Kong, L., St
 56. [Semantic-aware knowledge preservation for zero-shot sketch-based image retrieval](https://arxiv.org/pdf/1904.03208.pdf). Liu, Q., Xie, L., Wang, H., Yuille & A. L. (2019e).
 .ICCV.
 57. [Model compression with generative adversarial networks](https://arxiv.org/pdf/1812.02271.pdf). Liu, R., Fusi, N. & Mackey, L. (2018).
+58. [FastBERT: a self-distilling BERT with Adaptive Inference Time](https://arxiv.org/pdf/2004.02178.pdf). Liu, W., Zhou, P., Zhao, Z., Wang, Z., Deng, H., & Ju,Q. (2020b).ACL.
+59. [Improving the interpretability of deep neural networks with knowledge distillation](https://arxiv.org/pdf/1812.10924.pdf). Liu, X., Wang, X. & Matwin, S. (2018b).ICDMW.
+60. [Improving multi-task deep neural networks via knowledge distillation for natural language understanding](https://arxiv.org/pdf/1904.09482.pdf). Liu, X., He, P., Chen, W. & Gao, J. (2019f).
+61. [Knowledge distillation via instance relationship graph](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf). Liu, Y., Cao, J., Li, B., Yuan, C., Hu, W., Li, Y. & Duan, Y. (2019g).CVPR.
+62. [Structured knowledge distillation for semantic segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf). Liu, Y., Chen, K., Liu, C., Qin, Z., Luo, Z. & Wang, J. (2019h).CVPR.
+63. [Search to distill: Pearls are everywhere but not the eyes](https://arxiv.org/pdf/1911.09074.pdf). Liu, Y., Jia, X., Tan, M., Vemulapalli, R., Zhu, Y., Green, B. & et al. (2019i).CVPR.
+64. [Adaptive multi-teacher multi-level knowledge distillation](https://arxiv.org/pdf/2103.04062.pdf). Liu, Y., Zhang, W., & Wang, J. (2020c).Neu-rocomputing 415: 106-113.
+65. [Data-free knowledge distillation for deep neural networks](https://arxiv.org/pdf/1710.07535.pdf). Lopes, R. G., Fenu, S. & Starner, T. (2017).NeurIPS.
+66. [Unifying distillation and privileged information](https://arxiv.org/pdf/1511.03643.pdf). Lopez-Paz, D., Bottou, L., Sch¨olkopf, B. & Vapnik, V. (2016).ICLR.
+67. [Knowledge distillation for small-footprint highway networks](https://arxiv.org/pdf/1608.00892.pdf). Lu, L., Guo, M. & Renals, S. (2017).ICASSP.
+68. [Face model compression by distilling knowledge from neurons](). Luo, P., Zhu, Z., Liu, Z., Wang, X. & Tang, X. (2016).
+. In: AAAI.
+Luo, S., Pan, W., Wang, X., Wang, D., Tang, H., &
+Song, M. (2020). Collaboration by Competition: Selfcoordinated
+Knowledge Amalgamation for Multitalent
+Student Learning. In: ECCV.
+Luo, S., Wang, X., Fang, G., Hu, Y., Tao, D., &
+Song, M. (2019). Knowledge amalgamation from
+heterogeneous networks by common feature learning.
+In: IJCAI.
+Luo, Z., Hsieh, J. T., Jiang, L., Carlos Niebles, J.& Fei-
+Fei, L. (2018). Graph distillation for action detection
+with privileged modalities. In: ECCV.
+Macko, V., Weill, C., Mazzawi, H. & Gonzalvo,
+J. (2019). Improving neural architecture search
+image classifiers via ensemble learning. In: NeurIPS
+Workshop.
+Ma, J., & Mei, Q. (2019). Graph representation learning
+via multi-task knowledge distillation. arXiv preprint
+arXiv:1911.05700.
