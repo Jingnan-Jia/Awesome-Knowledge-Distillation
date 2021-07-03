@@ -52,3 +52,22 @@ Smith, N. A. (2016).EMNLP.
 38. [Stochasticity and Skip Connection Improve Knowledge Transfer](https://openreview.net/attachment?id=HklA93NYwS&name=original_pdf). Lee, K., Nguyen, L. T. & Shim, B. (2019c).AAAI.
 39. [Graph-based knowledge distillation by multi-head attention network](https://arxiv.org/pdf/1907.02226.pdf). Lee, S. & Song, B. (2019).BMVC.
 40. [Selfsupervised knowledge distillation using singular value decomposition](https://arxiv.org/pdf/1807.06819.pdf). Lee, S. H., Kim, D. H. & Song, B. C. (2018).ECCV.
+41. [Learning Light-Weight Translation Models from Deep Transformer](https://arxiv.org/pdf/2012.13866.pdf). Li, B., Wang, Z., Liu, H., Du, Q., Xiao, T., Zhang, C., & Zhu, J. (2021).AAAI.
+42. [ Blockwisely Supervised Neural Architecture Search with Knowledge Distillation.](https://arxiv.org/pdf/1911.13053.pdf). Li, C., Peng, J., Yuan, L., Wang, G., Liang, X., Lin, L.,& Chang, X. (2020a).CVPR.
+43. [Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts](https://proceedings.neurips.cc/paper/2020/file/657b96f0592803e25a4f07166fff289a-Paper.pdf). Li, G., Zhang, J., Wang, Y., Liu, C., Tan, M., Lin, Y., Zhang, W., Feng, J., & Zhang, T. (2020b).NeurIPS.
+44. [Spatiotemporal knowledge distillation for efficient estimation of aerial video saliency](https://arxiv.org/pdf/1904.04992.pdf). Li, J., Fu, K., Zhao, S. & Ge, S. (2019).IEEE TIP 29:1902–1914.
+45. [Gan compression: Efficient architectures for interactive conditional gans](https://arxiv.org/pdf/2003.08936.pdf). Li, M., Lin, J., Ding, Y., Liu, Z., Zhu, J. Y., & Han, S.(2020c).CVPR.
+46. [Mimicking very efficient network for object detection](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf). Li, Q., Jin, S. & Yan, J. (2017).CVPR.
+47. [Few sample knowledge distillation for efficient network compression](https://arxiv.org/pdf/1812.01839.pdf). Li, T., Li, J., Liu, Z., & Zhang, C. (2020d).CVPR.
+48. [Local Correlation Consistency for Knowledge Distillation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570018.pdf). Li, X., Wu, J., Fang, H., Liao, Y., Wang, F., & Qian, C. (2020e).ECCV.
+49. [Learning without forgetting](https://arxiv.org/pdf/1606.09282.pdf). Li, Z. & Hoiem, D. (2017).IEEE TPAMI 40(12): 2935–2947.
+50. [Ensemble distillation for robust model fusion in
+federated learning](https://arxiv.org/pdf/2006.07242.pdf). Lin, T., Kong, L., Stich, S. U., & Jaggi, M. (2020).NeurIPS.
+51. [Knowledge flow:Improve upon your teachers](https://arxiv.org/pdf/1904.05878.pdf). Liu, I. J., Peng, J. & Schwing, A. G. (2019a).ICLR.
+52. [Exploiting the ground-truth: An adversarial imitation based knowledge distillation approach for event detection](https://ojs.aaai.org//index.php/AAAI/article/view/4649). Liu, J., Chen, Y. & Liu, K. (2019b).AAAI.
+53. [Knowledge representing:efficient, sparse representation of prior knowledge for knowledge distillation](https://arxiv.org/pdf/1911.05329.pdf). Liu, J., Wen, D., Gao, H., Tao, W., Chen, T. W., Osa, K. & et al. (2019c).CVPRW.
+54. [DDFlow: Learning optical flow with unlabeled data distillation](https://arxiv.org/pdf/1902.09145.pdf). Liu, P., King, I., Lyu, M. R., & Xu, J. (2019d).AAAI.
+55. [Ktan: knowledge transfer adversarial network](https://arxiv.org/pdf/1810.08126.pdf). Liu, P., Liu, W., Ma, H., Mei, T. & Seok, M. (2020a).IJCNN.
+56. [Semantic-aware knowledge preservation for zero-shot sketch-based image retrieval](https://arxiv.org/pdf/1904.03208.pdf). Liu, Q., Xie, L., Wang, H., Yuille & A. L. (2019e).
+.ICCV.
+57. [Model compression with generative adversarial networks](https://arxiv.org/pdf/1812.02271.pdf). Liu, R., Fusi, N. & Mackey, L. (2018).
