@@ -125,3 +125,20 @@ I. & Talwar, K. (2017). ICLR
 106. [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://arxiv.org/pdf/2010.15821.pdf). Peng, H., Du, H., Yu, H., Li, Q., Liao, J., & Fu, J. (2020). NeurIPS.
 107. [Few-shot image recognition with knowledge transfer](https://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Few-Shot_Image_Recognition_With_Knowledge_Transfer_ICCV_2019_paper.pdf). Peng, Z., Li, Z., Zhang, J., Li, Y., Qi, G. J. & Tang, J. (2019b). ICCV.
 108. [Audio-visual model distillation using acoustic images](https://arxiv.org/pdf/1904.07933.pdf). Perez, A., Sanguineti, V., Morerio, P. & Murino, V. (2020). Audio-visual model distillation using acoustic images. WACV.
+109. [Towards understanding knowledge distillation](http://proceedings.mlr.press/v97/phuong19a/phuong19a.pdf). Phuong, M. & Lampert, C. H. (2019a). ICML.
+110. [ Distillationbased training for multi-exit architectures](https://openaccess.thecvf.com/content_ICCV_2019/papers/Phuong_Distillation-Based_Training_for_Multi-Exit_Architectures_ICCV_2019_paper.pdf). Phuong, M., & Lampert, C. H. (2019b). ICCV.
+111. [Refine and distill: Exploiting cycle-inconsistency and knowledge distillation for unsupervised monocular depth estimation](https://arxiv.org/pdf/1903.04202.pdf). Pilzer, A., Lathuiliere, S., Sebe, N. & Ricci, E. (2019). CVPR.
+112. [Model compression via distillation and quantization](https://arxiv.org/pdf/1802.05668.pdf). Polino, A., Pascanu, R. & Alistarh, D. (2018). ICLR.
+113. [Wise teachers train better dnn acoustic models](https://link.springer.com/content/pdf/10.1186/s13636-016-0088-7.pdf). Price, R., Iso, K. & Shinoda, K. (2016). . EURASIP Journal on Audio, Speech, and Music Processing 2016(1):10.
+114. [Data distillation: Towards omnisupervised learning](https://arxiv.org/pdf/1712.04440.pdf). Radosavovic, I., Dollar, P., Girshick, R., Gkioxari, G., & He, K. (2018). CVPR.
+115. [Designing network design spaces](https://arxiv.org/pdf/2003.13678.pdf). Radosavovic, I., Kosaraju, R. P., Girshick, R., He, K., & Dollar P. (2020). CVPR.
+116. [Cross-modality distillation: A case for conditional generative adversarial networks](https://arxiv.org/pdf/1807.07682.pdf). Roheda, S., Riggan, B. S., Krim, H. & Dai, L. (2018). ICASSP.
+117. [Fitnets: Hints for thin deep nets](https://arxiv.org/pdf/1412.6550.pdf). Romero, A., Ballas, N., Kahou, S. E., Chassang, A., Gatta, C., & Bengio, Y. (2015). ICLR.
+118. [Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients](https://arxiv.org/pdf/1711.09404.pdf). Ross, A. S. & Doshi-Velez, F. (2018). AAAI.
+119. [Knowledge adaptation: Teaching to adapt](https://arxiv.org/pdf/1702.02052.pdf). Ruder, S., Ghaffari, P. & Breslin, J. G. (2017).
+120. [ Mobilenetv2: Inverted residuals and linear bottlenecks](https://arxiv.org/pdf/1801.04381.pdf). Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L. C. (2018). CVPR.
+121. [Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf). Sanh, V., Debut, L., Chaumond, J. & Wolf, T. (2019). 
+122. [Distilling knowledge from a deep pose regressor network](https://arxiv.org/pdf/1908.00858.pdf). Saputra, M. R. U., de Gusmao, P. P., Almalioglu, Y., Markham, A. & Trigoni, N. (2019). ICCV.
+123. [Deep model compression: Distilling knowledge from noisy teachers](https://arxiv.org/pdf/1610.09650.pdf). Sau, B. B. & Balasubramanian, V. N. (2016).
+124. [Federated Knowledge Distillation](https://arxiv.org/pdf/2011.02367.pdf). Seo, H., Park, J., Oh, S., Bennis, M., & Kim, S. L. (2020).  
+125. [Knowledge distillation in document retrieval](https://arxiv.org/pdf/1911.11065.pdf). Shakeri, S., Sethy, A. & Cheng, C. (2019).
