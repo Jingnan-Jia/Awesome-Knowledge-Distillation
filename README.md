@@ -245,56 +245,40 @@ A., Hoiem, D., Jha, Niraj K., & Kautz, J. (2020). CVPR.
 220. [Large batch optimization for deep learning: Training bert in 76 minutes](https://arxiv.org/pdf/1904.00962.pdf). You, Y., Li, J., Reddi, S., Hseu, J., Kumar, S., Bhojanapalli, S., ... & Hsieh, C. J. (2019). ICLR.
 221. [Learning metrics from teachers: Compact networks for image embedding](https://arxiv.org/pdf/1904.03624.pdf). Yu, L., Yazici, V. O., Liu, X., Weijer, J., Cheng, Y. &
 Ramisa, A. (2019). CVPR.
-Yu, X., Liu, T., Wang, X., & Tao, D. (2017). On
-compressing deep models by low rank and sparse
-decomposition. In: CVPR.
-Yuan, F., Shou, L., Pei, J., Lin,W., Gong,M., Fu, Y., &
-Jiang, D. (2021). Reinforced Multi-Teacher Selection
-for Knowledge Distillation. In: AAAI.
-Yuan, L., Tay, F. E., Li, G., Wang, T. & Feng, J.
-(2020). Revisit knowledge distillation: a teacher-free
-framework. In: CVPR.
-Yuan, M., & Peng, Y. (2020). CKD: Cross-task
-knowledge distillation for text-to-image synthesis.
-IEEE TMM 22(8): 1955-1968.
-Yue, K., Deng, J., & Zhou, F. (2020). Matching Guided
-Distillation. In: ECCV.
-Yun, S., Park, J., Lee, K. & Shin, J. (2020). Regularizing
-Class-wise Predictions via Self-knowledge
-Distillation. In: CVPR.
-Zagoruyko, S. & Komodakis, N. (2017). Paying more
-attention to attention: Improving the performance of
-convolutional neural networks via attention transfer.
-In: ICLR.
-Zhai, M., Chen, L., Tung, F., He, J., Nawhal, M. &
-Mori, G. (2019). Lifelong gan: Continual learning for
-conditional image generation. In: ICCV.
-Zhai, S., Cheng, Y., Zhang, Z. M. & Lu, W. (2016).
-Doubly convolutional neural networks. In: NeurIPS.
-Zhao, C., & Hospedales, T. (2020). Robust Domain
-Randomised Reinforcement Learning through Peerto-
-Peer Distillation. In: NeurIPS.
-Zhao, H., Sun, X., Dong, J., Chen, C., & Dong, Z.
-(2020a). Highlight every step: Knowledge distillation
-via collaborative teaching. IEEE TCYB. DOI:
-10.1109/TCYB.2020.3007506.
-Zhao, L., Peng, X., Chen, Y., Kapadia, M., &
-Metaxas, D. N. (2020b). Knowledge as Priors:
-Cross-Modal Knowledge Generalization for Datasets
-without Superior Knowledge. In: CVPR.
-Zhao, M., Li, T., Abu Alsheikh, M., Tian, Y., Zhao,
-H., Torralba, A. & Katabi, D. (2018). Throughwall
-human pose estimation using radio signals. In:
-CVPR.
-Zhang, C. & Peng, Y. (2018). Better and faster:
-knowledge transfer from multiple self-supervised
-learning tasks via graph distillation for video
-classification. In: IJCAI.
-Zhang, F., Zhu, X. & Ye, M. (2019a). Fast human pose
-estimation. In: CVPR.
-Zhang, J., Liu, T., & Tao, D. (2018). An informationtheoretic
-view for deep learning. arXiv preprint
-arXiv:1804.09060.
-Zhang, H., Hu, Z., Qin, W., Xu, M., & Wang, M.
-(2021a). Adversarial co-distillation learning for image
-recognition. Pattern Recognition 111: 107659.
+222. [On compressing deep models by low rank and sparse decomposition](https://tongliang-liu.github.io/papers/CVPR2017compression.pdf). Yu, X., Liu, T., Wang, X., & Tao, D. (2017). CVPR.
+223. [Reinforced Multi-Teacher Selection for Knowledge Distillation](https://arxiv.org/pdf/2012.06048.pdf). Yuan, F., Shou, L., Pei, J., Lin,W., Gong,M., Fu, Y., & Jiang, D. (2021). AAAI.
+224. [Revisit knowledge distillation: a teacher-free framework](https://arxiv.org/pdf/1909.11723.pdf). Yuan, L., Tay, F. E., Li, G., Wang, T. & Feng, J. (2020). CVPR.
+225. [CKD: Cross-task knowledge distillation for text-to-image synthesis](https://ieeexplore.ieee.org/document/8890866). Yuan, M., & Peng, Y. (2020). IEEE TMM 22(8): 1955-1968.
+226. [Matching Guided Distillation](https://arxiv.org/pdf/2008.09958.pdf). Yue, K., Deng, J., & Zhou, F. (2020). ECCV.
+227. [Regularizing Class-wise Predictions via Self-knowledge Distillation](https://arxiv.org/pdf/2003.13964.pdf). Yun, S., Park, J., Lee, K. & Shin, J. (2020). CVPR.
+228. [Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer](https://arxiv.org/pdf/1612.03928.pdf). Zagoruyko, S. & Komodakis, N. (2017). ICLR.
+229. [Lifelong gan: Continual learning for conditional image generation](https://arxiv.org/pdf/1907.10107.pdf). Zhai, M., Chen, L., Tung, F., He, J., Nawhal, M. & Mori, G. (2019). ICCV.
+230. [Doubly convolutional neural networks](https://arxiv.org/pdf/1610.09716.pdf). Zhai, S., Cheng, Y., Zhang, Z. M. & Lu, W. (2016). NeurIPS.
+231. [Robust Domain Randomised Reinforcement Learning through Peerto-Peer Distillation](https://arxiv.org/pdf/2012.04839.pdf). Zhao, C., & Hospedales, T. (2020).  NeurIPS.
+232. [Highlight every step: Knowledge distillation via collaborative teaching](https://arxiv.org/pdf/1907.09643.pdf). Zhao, H., Sun, X., Dong, J., Chen, C., & Dong, Z. (2020a). . IEEE TCYB. 
+233. [Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge](https://arxiv.org/pdf/2004.00176.pdf). Zhao, L., Peng, X., Chen, Y., Kapadia, M., & Metaxas, D. N. (2020b). 
+234. [Throughwall human pose estimation using radio signals](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf). Zhao, M., Li, T., Abu Alsh]eikh, M., Tian, Y., Zhao, H., Torralba, A. & Katabi, D. (2018). CVPR.
+235. [Better and faster: knowledge transfer from multiple self-supervised learning tasks via graph distillation for video classification](https://arxiv.org/pdf/1804.10069.pdf). Zhang, C. & Peng, Y. (2018). IJCAI.
+236. [Fast human pose estimation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf). Zhang, F., Zhu, X. & Ye, M. (2019a). CVPR.
+237. [An informationtheoretic view for deep learning](https://arxiv.org/pdf/1804.09060.pdf). Zhang, J., Liu, T., & Tao, D. (2018). 
+238. [Adversarial co-distillation learning for image recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320320304623). Zhang, H., Hu, Z., Qin, W., Xu, M., & Wang, M. (2021a). Pattern Recognition 111: 107659.
+239. [Task-Oriented Feature Distillation](https://papers.nips.cc/paper/2020/file/a96b65a721e561e1e3de768ac819ffbb-Paper.pdf). Zhang, L., Shi, Y., Shi, Z., Ma, K., & Bao, C. (2020a). NeurIPS.
+240. [Be your own teacher: Improve the performance of convolutional neural networks via self distillation](https://arxiv.org/pdf/1905.08094.pdf). Zhang, L., Song, J., Gao, A., Chen, J., Bao, C. & Ma, K. (2019b). ICCV.
+241. [Discriminability distillation in group representation learning](https://arxiv.org/pdf/2008.10850.pdf). Zhang, M., Song, G., Zhou, H., & Liu, Y. (2020b). ECCV.
+242. [Future-Guided Incremental Transformer for Simultaneous Translation](https://arxiv.org/pdf/2012.12465.pdf). Zhang, S., Feng, Y., & Li, L. (2021b). AAAI.
+243. [Knowledge Integration Networks for Action Recognition](https://arxiv.org/pdf/2002.07471.pdf). Zhang, S., Guo, S., Wang, L., Huang, W., & Scott, M. R. (2020c). AAAI.
+244. [Reliable Data Distillation on Graph Convolutional Network](https://dl.acm.org/doi/10.1145/3318464.3389706). Zhang, W., Miao, X., Shao, Y., Jiang, J., Chen,
+L., Ruas, O., & Cui, B. (2020d). ACM SIGMOD.
+245. [Diverse Knowledge Distillation for End-to-End Person Search](https://arxiv.org/pdf/2012.11187.pdf). Zhang, X., Wang, X., Bian, J. W., Shen, C., & You, M.
+(2021c). AAAI.
+246. [Shufflenet: An extremely efficient convolutional neural network for mobile devices](https://arxiv.org/pdf/1707.01083.pdf). Zhang, X., Zhou, X., Lin, M. & Sun, J. (2018a). CVPR.
+247. [Prime-Aware Adaptive Distillation](https://arxiv.org/pdf/2008.01458.pdf). Zhang, Y., Lan, Z., Dai, Y., Zeng, F., Bai, Y., Chang, J., &Wei, Y. (2020e). ECCV.
+248. [Deep mutual learning](https://arxiv.org/pdf/1706.00384.pdf). Zhang, Y., Xiang, T., Hospedales, T. M. & Lu, H. (2018b). CVPR.
+249. [Self-Distillation as Instance-Specific Label Smoothing](https://arxiv.org/pdf/2006.05065.pdf). Zhang, Z., & Sabuncu, M. R. (2020). NeurIPS.
+250. [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://arxiv.org/pdf/2002.11566.pdf). Zhang, Z., Shi, Y., Yuan, C., Li, B., Wang, P.,
+Hu, W., & Zha, Z. J. (2020f). CVPR.
+251. [Understanding knowledge distillation in non-autoregressive machine translation](https://arxiv.org/pdf/1911.02727.pdf). Zhou C, Neubig G, Gu J (2019a). ICLR.
+252. [Rocket launching: A universal and efficient framework for training well-performing light net](https://arxiv.org/pdf/1708.04106.pdf). Zhou, G., Fan, Y., Cui, R., Bian, W., Zhu, X. & Gai, K. (2018). AAAI.
+253. [Two-stage image classification supervised by a single teacher single student model](https://arxiv.org/ftp/arxiv/papers/1909/1909.12111.pdf). Zhou, J., Zeng, S. & Zhang, B. (2019b). BMVC.
+254. [M2KD: Incremental Learning via Multi-model and Multi-level Knowledge Distillation](https://arxiv.org/pdf/1904.01769.pdf). Zhou, P., Mai, L., Zhang, J., Xu, N., Wu, Z. & Davis, L. S. (2020). BMVC.
+255. [Low-resolution visual recognition via deep feature distillation](https://ieeexplore.ieee.org/document/8682926). Zhu,M., Han, K., Zhang, C., Lin, J. &Wang, Y. (2019). ICASSP.
