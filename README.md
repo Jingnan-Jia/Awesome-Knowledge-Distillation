@@ -142,3 +142,18 @@ I. & Talwar, K. (2017). ICLR
 123. [Deep model compression: Distilling knowledge from noisy teachers](https://arxiv.org/pdf/1610.09650.pdf). Sau, B. B. & Balasubramanian, V. N. (2016).
 124. [Federated Knowledge Distillation](https://arxiv.org/pdf/2011.02367.pdf). Seo, H., Park, J., Oh, S., Bennis, M., & Kim, S. L. (2020).  
 125. [Knowledge distillation in document retrieval](https://arxiv.org/pdf/1911.11065.pdf). Shakeri, S., Sethy, A. & Cheng, C. (2019).
+126. [Amalgamating knowledge towards comprehensive classification](https://arxiv.org/pdf/1811.02796.pdf). Shen, C., Wang, X., Song, J., Sun, L., & Song, M. (2019a). AAAI.
+127. [Progressive Network Grafting for Few-Shot Knowledge Distillation](https://arxiv.org/pdf/2012.04915.pdf). Shen, C., Wang, X., Yin, Y., Song, J., Luo, S., & Song, M. (2021). AAAI.
+128. [Customizing student networks from heterogeneous teachers via adaptive knowledge amalgamation](https://arxiv.org/pdf/1908.07121.pdf). Shen, C., Xue, M., Wang, X., Song, J., Sun, L., & Song, M. (2019b). ICCV.
+129. [In teacher we trust: Learning compressed models for pedestrian detection](https://arxiv.org/pdf/1612.00478.pdf). Shen, J., Vesdapunt, N., Boddeti, V. N. & Kitani, K. M. (2016). 
+130. [Feature representation of short utterances based on knowledge distillation for spoken language identification](https://isca-speech.org/archive/Interspeech_2018/pdfs/1519.pdf). Shen, P., Lu, X., Li, S. & Kawai, H. (2018). Interspeech.
+131. [Knowledge Distillation-Based Representation Learning for Short-Utterance Spoken Language Identification](https://ieeexplore.ieee.org/document/9195801). Shen, P., Lu, X., Li, S., & Kawai, H. (2020). IEEE/ACM T AUDIO SPE 28: 2674-2683.
+132. [Interactive learning of teacher-student model for short utterance spoken language identification](https://ieeexplore.ieee.org/document/8683371). Shen, P., Lu, X., Li, S. & Kawai, H. (2019c). ICASSP.
+133. [Meal: Multi-model ensemble via adversarial learning](https://arxiv.org/pdf/1812.02425.pdf). Shen, Z., He, Z. & Xue, X. (2019d). AAAI.
+134. [Compression of acoustic event detection models with quantized distillation](https://arxiv.org/pdf/1907.00873.pdf). Shi, B., Sun, M., Kao, C. C., Rozgic, V., Matsoukas, S. & Wang, C. (2019a). Interspeech.
+135. [Semi-supervised acoustic event detection based on tri-training](https://arxiv.org/pdf/1904.12926.pdf). Shi, B., Sun, M., Kao, CC., Rozgic, V., Matsoukas, S. & Wang, C. (2019b). ICASSP.
+136. [Knowledge distillation for recurrent neural network language modeling with trust regularization](https://arxiv.org/pdf/1904.04163.pdf). Shi, Y., Hwang, M. Y., Lei, X. & Sheng, H. (2019c). ICASSP.
+137. [Empirical analysis of knowledge distillation technique for optimization of quantized deep neural networks](https://arxiv.org/pdf/1909.01688.pdf). Shin, S., Boo, Y. & Sung,W. (2019). 
+138. [Incremental learning of object detectors without catastrophic forgetting](https://arxiv.org/pdf/1708.06977.pdf). Shmelkov, K., Schmid, C. & Alahari, K. (2017). ICCV.
+139. [Knowledge squeezed adversarial network compression](https://arxiv.org/pdf/1904.05100.pdf). Shu, C., Li, P., Xie, Y., Qu, Y., Dai, L., & Ma, L.(2019).  
+140. [Video object segmentation using teacher-student adaptation in a human robot interaction (hri) setting](https://arxiv.org/pdf/1810.07733.pdf). Siam, M., Jiang, C., Lu, S., Petrich, L., Gamal, M., Elhoseiny, M. & et al. (2019). ICRA.
