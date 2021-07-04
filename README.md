@@ -168,3 +168,71 @@ L., Van Den Driessche, G., ... & Dieleman, S. (2016). Nature, 529(7587): 484–4
 148. [Optimizing network performance for distributed dnn training on gpu clusters: Imagenet/alexnet training in 1.5 minutes](https://arxiv.org/pdf/1902.06855.pdf). Sun, P., Feng, W., Han, R., Yan, S., & Wen, Y. (2019).
 149. [An investigation of a knowledge distillation method for ctc acoustic models](https://ieeexplore.ieee.org/document/8461995). Takashima, R., Li, S. & Kawai, H. (2018). ICASSP.
 150. [Knowledge-Transfer Generative Adversarial Network for Text-to-Image Synthesis](https://ieeexplore.ieee.org/document/9210842). Tan, H., Liu, X., Liu, M., Yin, B., & Li, X. (2021). KTGAN:. IEEE TIP 30: 1275-1290.
+151. [Mnasnet: Platform-aware neural architecture search for mobile](https://arxiv.org/pdf/1807.11626.pdf). Tan, M., Chen, B., Pang, R., Vasudevan, V., Sandler, M., Howard, A., & Le, Q. V. (2019). CVPR.
+152. [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf). Tan, M., & Le, Q. (2019). ICML.
+153. [Multilingual neural machine translation with knowledge distillation](https://arxiv.org/pdf/1902.10461.pdf). Tan, X., Ren, Y., He, D., Qin, T., Zhao, Z. & Liu, T. Y.
+(2019). ICLR.
+Tang, J., Shivanna, R., Zhao, Z., Lin, D., Singh, A.,
+Chi, E. H., & Jain, S. (2020). Understanding and
+Improving Knowledge Distillation. arXiv preprint
+arXiv:2002.03532.
+Tang, J. & Wang, K. (2018). Ranking distillation:
+Learning compact ranking models with high performance
+for recommender system. In: SIGKDD.
+Tang, R., Lu, Y., Liu, L., Mou, L., Vechtomova, O.
+& Lin, J. (2019). Distilling task-specific knowledge
+from bert into simple neural networks. arXiv preprint
+arXiv:1903.12136.
+Tarvainen, A., & Valpola, H. (2017). Mean teachers are
+better role models: Weight-averaged consistency targets
+improve semi-supervised deep learning results.
+In: NeurIPS.
+Thoker, F. M. & Gall, J. (2019). Cross-modal
+knowledge distillation for action recognition. In:
+ICIP.
+Tian, Y., Krishnan, D. & Isola, P. (2020). Contrastive
+representation distillation. In: ICLR.
+Tu, Z., He, F., & Tao, D. (2020). Understanding
+Generalization in Recurrent Neural Networks. In International
+Conference on Learning Representations.
+In: ICLR.
+Tung, F. & Mori, G. (2019). Similarity-preserving
+knowledge distillation. In: ICCV.
+Turc, I., Chang, M. W., Lee, K. & Toutanova, K.
+(2019). Well-read students learn better: The impact
+of student initialization on knowledge distillation.
+arXiv preprint arXiv:1908.08962.
+Urner, R., Shalev-Shwartz, S., Ben-David, S. (2011).
+Access to unlabeled data can speed up prediction
+time. In ICML.
+Urban, G., Geras, K. J., Kahou, S. E., Aslan, O.,
+Wang, S., Caruana, R. & et al. (2017). Do deep
+convolutional nets really need to be deep and
+convolutional? In: ICLR.
+Vapnik, V. & Izmailov, R. (2015). Learning using privileged
+information: similarity control and knowledge
+transfer. J Mach Learn Res 16(1): 2023-2049.
+Vongkulbhisal, J., Vinayavekhin, P. & Visentini-
+Scarzanella, M. (2019). Unifying heterogeneous
+classifiers with distillation. In: CVPR.
+Walawalkar, D., Shen, Z., & Savvides, M. (2020). Online
+Ensemble Model Compression using Knowledge
+Distillation. In: ECCV.
+Wang, C., Lan, X. & Zhang, Y. (2017). Model
+distillation with knowledge transfer from face
+classification to alignment and verification. arXiv
+preprint arXiv:1709.02929.
+Wang, L., & Yoon, K. J. (2020). Knowledge distillation
+and student-teacher learning for visual
+intelligence: A review and new outlooks. arXiv
+preprint arXiv:2004.05937.
+Wang, H., Zhao, H., Li, X. & Tan, X. (2018a).
+Progressive blockwise knowledge distillation for
+neural network acceleration. In: IJCAI.
+Wang, J., Bao, W., Sun, L., Zhu, X., Cao, B. &
+Philip, SY. (2019a). Private model compression via
+knowledge distillation. In: AAAI.
+Wang, J., Gou, L., Zhang, W., Yang, H. & Shen,
+H. W. (2019b). Deepvid: Deep visual interpretation
+and diagnosis for image classifiers via knowledge
+distillation. TVCG 25(6): 2168-2180
