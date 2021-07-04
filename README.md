@@ -157,3 +157,14 @@ I. & Talwar, K. (2017). ICLR
 138. [Incremental learning of object detectors without catastrophic forgetting](https://arxiv.org/pdf/1708.06977.pdf). Shmelkov, K., Schmid, C. & Alahari, K. (2017). ICCV.
 139. [Knowledge squeezed adversarial network compression](https://arxiv.org/pdf/1904.05100.pdf). Shu, C., Li, P., Xie, Y., Qu, Y., Dai, L., & Ma, L.(2019).  
 140. [Video object segmentation using teacher-student adaptation in a human robot interaction (hri) setting](https://arxiv.org/pdf/1810.07733.pdf). Siam, M., Jiang, C., Lu, S., Petrich, L., Gamal, M., Elhoseiny, M. & et al. (2019). ICRA.
+141. [Structured transforms for small-footprint deep learning](https://arxiv.org/pdf/1510.01722.pdf). Sindhwani, V., Sainath, T. & Kumar, S. (2015). NeurIPS.
+142. [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961). Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre,
+L., Van Den Driessche, G., ... & Dieleman, S. (2016). Nature, 529(7587): 484–489.
+143. [Neural compatibility modeling with attentive knowledge distillation](https://arxiv.org/pdf/1805.00313.pdf). Song, X., Feng, F., Han, X., Yang, X., Liu,W. & Nie, L. (2018). SIGIR.
+144. [Knowledge transfer with jacobian matching](https://arxiv.org/pdf/1803.00443.pdf). Srinivas, S. & Fleuret, F. (2018). ICML.
+145. [Adapting models to signal degradation using distillation](https://arxiv.org/pdf/1604.00433.pdf). Su, J. C. & Maji, S. (2017). BMVC.
+146. [Collaborative Teacher-Student Learning via Multiple Knowledge Transfer](https://arxiv.org/pdf/2101.08471.pdf). Sun, L., Gou, J., Du, L., & Tao, D. (2021) 
+147. [Patient knowledge distillation for bert model compression](https://arxiv.org/pdf/1908.09355.pdf). Sun, S., Cheng, Y., Gan, Z. & Liu, J. (2019). NEMNLP-IJCNLP.
+148. [Optimizing network performance for distributed dnn training on gpu clusters: Imagenet/alexnet training in 1.5 minutes](https://arxiv.org/pdf/1902.06855.pdf). Sun, P., Feng, W., Han, R., Yan, S., & Wen, Y. (2019).
+149. [An investigation of a knowledge distillation method for ctc acoustic models](https://ieeexplore.ieee.org/document/8461995). Takashima, R., Li, S. & Kawai, H. (2018). ICASSP.
+150. [Knowledge-Transfer Generative Adversarial Network for Text-to-Image Synthesis](https://ieeexplore.ieee.org/document/9210842). Tan, H., Liu, X., Liu, M., Yin, B., & Li, X. (2021). KTGAN:. IEEE TIP 30: 1275-1290.
