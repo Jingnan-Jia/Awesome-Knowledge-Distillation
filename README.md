@@ -78,23 +78,11 @@ Fergus, R. (2014).NeurIPS.
 D. (2019). ICCV.
 61. [Teacher supervises students how to learn from partially labeled images for facial landmark detection](https://arxiv.org/pdf/1908.02116.pdf) Dong, X. & Yang, Y. (2019). ICCV.
 62. [Unpaired multi-modal segmentation via knowledge distillation](https://arxiv.org/pdf/2001.03111.pdf) Dou, Q., Liu, Q., Heng, P. A., & Glocker, B. (2020). IEEE TMI 
-Du, S., You, S., Li, X., Wu, J., Wang, F., Qian, C.,
-& Zhang, C. (2020). Agree to Disagree: Adaptive
-Ensemble Knowledge Distillation in Gradient Space.
-In: NeurIPS.
-Duong, C. N., Luu, K., Quach, K. G. & Le, N.
-(2019.) ShrinkTeaNet: Million-scale lightweight face
-recognition via shrinking teacher-student networks.
-arXiv preprint arXiv:1905.10620.
-Fakoor, R., Mueller, J. W., Erickson, N., Chaudhari,
-P., & Smola, A. J. (2020). Fast, Accurate, and Simple
-Models for Tabular Data via Augmented Distillation.
-In: NeurIPS.
-Flennerhag, S., Moreno, P. G., Lawrence, N. D. &
-Damianou, A. (2019). Transferring knowledge across
-learning processes. In: ICLR.
-Freitag, M., Al-Onaizan, Y. & Sankaran, B. (2017).
-Ensemble distillation for neural machine translation.
+63. [Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space](https://proceedings.neurips.cc/paper/2020/file/91c77393975889bd08f301c9e13a44b7-Paper.pdf) Du, S., You, S., Li, X., Wu, J., Wang, F., Qian, C., & Zhang, C. (2020). NeurIPS.
+64. [ShrinkTeaNet: Million-scale lightweight face recognition via shrinking teacher-student networks](https://arxiv.org/pdf/1905.10620.pdf) Duong, C. N., Luu, K., Quach, K. G. & Le, N. (2019.)
+65. [Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation](https://arxiv.org/pdf/2006.14284.pdf) Fakoor, R., Mueller, J. W., Erickson, N., Chaudhari, P., & Smola, A. J. (2020). NeurIPS.
+66. [Transferring knowledge across learning processes](https://arxiv.org/pdf/1812.01054.pdf) Flennerhag, S., Moreno, P. G., Lawrence, N. D. & Damianou, A. (2019). ICLR.
+67. [Ensemble distillation for neural machine translation](https://arxiv.org/pdf/1702.01802.pdf) Freitag, M., Al-Onaizan, Y. & Sankaran, B. (2017).
 35. [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf)
 36. [Fast Human Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
 37. [CONDITIONAL TEACHER-STUDENT LEARNING](https://arxiv.org/pdf/1904.12399.pdf)
