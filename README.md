@@ -1,12 +1,9 @@
 # Awesome-Knowledge-Distillation
 Collection of papers on Knowledge Distillation
 The papers here are organized by the style described at [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf)
-# 1. Introduction
+# Introduction
 ![image](https://user-images.githubusercontent.com/34941987/124362430-04fd0400-dc35-11eb-8d97-4b55d16d43d1.png)
 
-
-# 2. Knowledge
-## 2.1 Response-Based Knowledge
 1. [Spatial knowledge distillation to aid visual reasoning](https://arxiv.org/pdf/1812.03631.pdf). Aditya, S., Saha, R., Yang, Y. & Baral, C. (2019). WACV.
 2. [Knowledge distillation from internal representations](https://arxiv.org/pdf/1910.03723.pdf). Aguilar, G., Ling, Y., Zhang, Y., Yao, B., Fan, X. & Guo, E. (2020). AAAI.
 3. [Compressing gans using knowledge distillation](https://arxiv.org/pdf/1902.00159.pdf). Aguinaldo, A., Chiang, P. Y., Gain, A., Patil, A., Pearson, K. & Feizi, S. (2019).
