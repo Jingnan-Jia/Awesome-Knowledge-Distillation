@@ -202,7 +202,7 @@ L., Van Den Driessche, G., ... & Dieleman, S. (2016). Nature, 529(7587): 484–4
 180. [Progressive teacher-student learning for early action prediction](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Progressive_Teacher-Student_Learning_for_Early_Action_Prediction_CVPR_2019_paper.pdf). Wang, X., Hu, J. F., Lai, J. H., Zhang, J. & Zheng, W. S. (2019e). CVPR.
 181. [ Kdgan: Knowledge distillation with generative adversarial networks](https://papers.nips.cc/paper/2018/file/019d385eb67632a7e958e23f24bd07d7-Paper.pdf). Wang, X., Zhang, R., Sun, Y. & Qi, J. (2018e). NeurIPS.
 182. [Packing convolutional neural networks in the frequency domain](https://ieeexplore.ieee.org/document/8413170). Wang, Y., Xu, C., Xu, C. & Tao, D. (2019f). IEEE TPAMI 41(10): 2495–2510.
-183. [Adversarial learning of portable student networks](). Wang, Y., Xu, C., Xu, C. & Tao, D. (2018f). AAAI.
+183. [Adversarial learning of portable student networks](https://research.ubtrobot.com/file/publications/Adversarial%20Learning%20of%20Portable%20Student%20Networks.pdf). Wang, Y., Xu, C., Xu, C. & Tao, D. (2018f). AAAI.
 184. [Joint architecture and knowledge distillation in CNN for Chinese text recognition](https://arxiv.org/pdf/1912.07806.pdf). Wang, Z. R., & Du, J. (2021). Pattern Recognition 111: 107722.
 185. [Student-teacher network learning with enhanced features](https://ieeexplore.ieee.org/document/7953163). Watanabe, S., Hori, T., Le Roux, J. & Hershey, J. R. (2017). ICASSP.
 186. [Online distilling from checkpoints for neural machine translation](https://aclanthology.org/N19-1192.pdf). Wei, H. R., Huang, S., Wang, R., Dai, X. & Chen, J.
@@ -241,8 +241,8 @@ L., Van Den Driessche, G., ... & Dieleman, S. (2016). Nature, 529(7587): 484–4
 A., Hoiem, D., Jha, Niraj K., & Kautz, J. (2020). CVPR.
 217. [Knowledge extraction with no observable data](https://openreview.net/pdf?id=BJzo8EBeIB). Yoo, J., Cho, M., Kim, T., & Kang, U. (2019). NeurIPS.
 218. [Learning from multiple teacher networks](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1285.pdf). You, S., Xu, C., Xu, C. & Tao, D. (2017). SIGKDD.
-219. [Learning with single-teacher multi-student](). You, S., Xu, C., Xu, C. & Tao, D. (2018). AAAI.
-220. [Large batch optimization for deep learning: Training bert in 76 minutes](). You, Y., Li, J., Reddi, S., Hseu, J., Kumar, S., Bhojanapalli, S., ... & Hsieh, C. J. (2019). ICLR.
+219. [Learning with single-teacher multi-student](https://ojs.aaai.org/index.php/AAAI/article/view/11636/11495). You, S., Xu, C., Xu, C. & Tao, D. (2018). AAAI.
+220. [Large batch optimization for deep learning: Training bert in 76 minutes](https://arxiv.org/pdf/1904.00962.pdf). You, Y., Li, J., Reddi, S., Hseu, J., Kumar, S., Bhojanapalli, S., ... & Hsieh, C. J. (2019). ICLR.
 221. [Learning metrics from teachers: Compact networks for image embedding](https://arxiv.org/pdf/1904.03624.pdf). Yu, L., Yazici, V. O., Liu, X., Weijer, J., Cheng, Y. &
 Ramisa, A. (2019). CVPR.
 Yu, X., Liu, T., Wang, X., & Tao, D. (2017). On
