@@ -74,15 +74,10 @@ Fergus, R. (2014).NeurIPS.
 58. [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf) Devlin, J., Chang, M. W., Lee, K. & Toutanova, K.
 (2019). NAACL-HLT.
 59. [Adaptive regularization of labels](https://arxiv.org/pdf/1908.05474.pdf) Ding, Q., Wu, S., Sun, H., Guo, J. & Xia, ST. (2019).
-Do, T., Do, T. T., Tran, H., Tjiputra, E. & Tran, Q.
-D. (2019). Compact trilinear interaction for visual
-question answering. In: ICCV.
-Dong, X. & Yang, Y. (2019). Teacher supervises
-students how to learn from partially labeled images
-for facial landmark detection. In: ICCV.
-Dou, Q., Liu, Q., Heng, P. A., & Glocker, B. (2020).
-Unpaired multi-modal segmentation via knowledge
-distillation. IEEE TMI 39(7): 2415-2425.
+60. [Compact trilinear interaction for visual question answering](https://arxiv.org/pdf/1909.11874.pdf) Do, T., Do, T. T., Tran, H., Tjiputra, E. & Tran, Q.
+D. (2019). ICCV.
+61. [Teacher supervises students how to learn from partially labeled images for facial landmark detection](https://arxiv.org/pdf/1908.02116.pdf) Dong, X. & Yang, Y. (2019). ICCV.
+62. [Unpaired multi-modal segmentation via knowledge distillation](https://arxiv.org/pdf/2001.03111.pdf) Dou, Q., Liu, Q., Heng, P. A., & Glocker, B. (2020). IEEE TMI 
 Du, S., You, S., Li, X., Wu, J., Wang, F., Qian, C.,
 & Zhang, C. (2020). Agree to Disagree: Adaptive
 Ensemble Knowledge Distillation in Gradient Space.
