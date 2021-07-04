@@ -112,41 +112,16 @@ Fei, L. (2018). ECCV.
 94. [Parallel wavenet: Fast high-fidelity speech synthesis](https://arxiv.org/pdf/1711.10433.pdf). Oord, A., Li, Y., Babuschkin, I., Simonyan, K., Vinyals, O., Kavukcuoglu, K. & et al. (2018). ICML.
 95. [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://arxiv.org/pdf/2003.13942.pdf). Pan, B., Cai, H., Huang, D. A., Lee, K. H., Gaidon, A., Adeli, E., & Niebles, J. C. (2020). CVPR
 96. [A novel enhanced collaborative autoencoder with knowledge distillation for top-n recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S0925231218314796). Pan, Y., He, F. & Yu, H. (2019). Neurocomputing 332: 137–148.
-Papernot, N., Abadi, M., Erlingsson, U., Goodfellow,
-I. & Talwar, K. (2017). Semi-supervised knowledge
-transfer for deep learning from private training data.
-In: ICLR
-Papernot, N., McDaniel, P., Wu, X., Jha, S. & Swami,
-A. (2016). Distillation as a defense to adversarial
-perturbations against deep neural networks. In: IEEE
-SP.
-Park, S. & Kwak, N. (2020). Feature-level Ensemble
-Knowledge Distillation for Aggregating Knowledge
-from Multiple Networks. In: ECAI.
-Park,W., Kim, D., Lu, Y. & Cho, M. (2019). Relational
-knowledge distillation. In: CVPR.
-Passban, P., Wu, Y., Rezagholizadeh, M., & Liu, Q.
-(2021). ALP-KD: Attention-Based Layer Projection
-for Knowledge Distillation. In: AAAI.
-Passalis, N. & Tefas, A. (2018). Learning deep representations
-with probabilistic knowledge transfer. In:
-ECCV.
-Passalis, N., Tzelepi, M., & Tefas, A. (2020a).
-Probabilistic Knowledge Transfer for Lightweight
-Deep Representation Learning. TNNLS. DOI:
-10.1109/TNNLS.2020.2995884.
-Passalis, N., Tzelepi,M., & Tefas, A. (2020b). Heterogeneous
-Knowledge Distillation using Information Flow
-Modeling. In:CVPR.
-Peng, B., Jin, X., Liu, J., Li, D., Wu, Y., Liu, Y. &
-et al. (2019a). Correlation congruence for knowledge
-distillation. In: ICCV.
-Peng, H., Du, H., Yu, H., Li, Q., Liao, J., & Fu,
-J. (2020). Cream of the Crop: Distilling Prioritized
-Paths For One-Shot Neural Architecture Search. In:
-NeurIPS.
-Peng, Z., Li, Z., Zhang, J., Li, Y., Qi, G. J. & Tang, J.
-(2019b). Few-shot image recognition with knowledge
-transfer. In: ICCV.
-Perez, A., Sanguineti, V., Morerio, P. & Murino, V.
-(2020). Audio-visual model distillation using acoustic
+97. [Semi-supervised knowledge transfer for deep learning from private training data](https://arxiv.org/pdf/1610.05755.pdf). Papernot, N., Abadi, M., Erlingsson, U., Goodfellow,
+I. & Talwar, K. (2017). ICLR
+98. [Distillation as a defense to adversarial perturbations against deep neural networks](https://arxiv.org/pdf/1511.04508.pdf). Papernot, N., McDaniel, P., Wu, X., Jha, S. & Swami, A. (2016). IEEE SP.
+99. [Feature-level Ensemble Knowledge Distillation for Aggregating Knowledge from Multiple Networks](https://ecai2020.eu/papers/405_paper.pdf). Park, S. & Kwak, N. (2020). ECAI.
+100. [Relational knowledge distillation](https://arxiv.org/pdf/1904.05068.pdf). Park,W., Kim, D., Lu, Y. & Cho, M. (2019). CVPR.
+101. [ALP-KD: Attention-Based Layer Projection for Knowledge Distillation](https://arxiv.org/pdf/2012.14022.pdf). Passban, P., Wu, Y., Rezagholizadeh, M., & Liu, Q. (2021). AAAI.
+102. [Learning deep representations with probabilistic knowledge transfer](https://arxiv.org/pdf/1803.10837.pdf). Passalis, N. & Tefas, A. (2018). ECCV.
+103. [Probabilistic Knowledge Transfer for Lightweight Deep Representation Learning](https://ieeexplore.ieee.org/document/9104915). Passalis, N., Tzelepi, M., & Tefas, A. (2020a).TNNLS. 
+104. [Heterogeneous Knowledge Distillation using Information Flow Modeling](https://arxiv.org/pdf/2005.00727.pdf). Passalis, N., Tzelepi,M., & Tefas, A. (2020b). CVPR.
+105. [Correlation congruence for knowledge distillation](https://arxiv.org/pdf/1904.01802.pdf). Peng, B., Jin, X., Liu, J., Li, D., Wu, Y., Liu, Y. & et al. (2019a). ICCV.
+106. [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://arxiv.org/pdf/2010.15821.pdf). Peng, H., Du, H., Yu, H., Li, Q., Liao, J., & Fu, J. (2020). NeurIPS.
+107. [Few-shot image recognition with knowledge transfer](https://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Few-Shot_Image_Recognition_With_Knowledge_Transfer_ICCV_2019_paper.pdf). Peng, Z., Li, Z., Zhang, J., Li, Y., Qi, G. J. & Tang, J. (2019b). ICCV.
+108. [Audio-visual model distillation using acoustic images](https://arxiv.org/pdf/1904.07933.pdf). Perez, A., Sanguineti, V., Morerio, P. & Murino, V. (2020). Audio-visual model distillation using acoustic images. WACV.
