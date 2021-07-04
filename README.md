@@ -4,17 +4,54 @@ The papers here are organized by the style described at [Knowledge Distillation:
 # 1. Introduction
 ![image](https://user-images.githubusercontent.com/34941987/124362430-04fd0400-dc35-11eb-8d97-4b55d16d43d1.png)
 
+
 # 2. Knowledge
 ## 2.1 Response-Based Knowledge
-1. [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf)
-2. [Fast Human Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
-3. [CONDITIONAL TEACHER-STUDENT LEARNING](https://arxiv.org/pdf/1904.12399.pdf)
-4. [Distilling the knowledge in a neural network](https://arxiv.org/pdf/1503.02531.pdf).Hinton, G., Vinyals, O. & Dean, J. (2015).
-5. [Learning with Side Information through Modality Hallucination](https://saurabhg.web.illinois.edu/pdfs/hoffman2016learning.pdf).Hoffman, J., Gupta, S. & Darrell, T. (2016). CVPR.
-6. [GAN-Knowledge Distillation for one-stage Object Detection](https://arxiv.org/pdf/1906.08467.pdf). Hong, W. & Yu, J. (2019).
-7. [Learning lightweight lane detection cnns by self attention distillation](https://arxiv.org/pdf/1908.00821.pdf). Hou, Y., Ma, Z., Liu, C. & Loy, CC. (2019). ICCV.
-8. [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/pdf/2004.05304.pdf). Hou, Y., Ma, Z., Liu, C., Hui, T. W., & Loy, C. C.(2020). CVPR.
-9. [Mobilenets: Efficient convolutional neural networks for mobile vision applications](https://arxiv.org/pdf/1704.04861.pdf). Howard, A. G., Zhu, M., Chen, B., Kalenichenko,
+1. [Spatial knowledge distillation to aid visual reasoning](https://arxiv.org/pdf/1812.03631.pdf). Aditya, S., Saha, R., Yang, Y. & Baral, C. (2019). WACV.
+2. [Knowledge distillation from internal representations](https://arxiv.org/pdf/1910.03723.pdf). Aguilar, G., Ling, Y., Zhang, Y., Yao, B., Fan, X. & Guo, E. (2020). AAAI.
+3. [Compressing gans using knowledge distillation](https://arxiv.org/pdf/1902.00159.pdf). Aguinaldo, A., Chiang, P. Y., Gain, A., Patil, A., Pearson, K. & Feizi, S. (2019).
+4. [Variational information distillation for knowledge transfer](https://arxiv.org/pdf/1904.05835.pdf). Ahn, S., Hu, S., Damianou, A., Lawrence, N. D. & Dai, Z. (2019). CVPR.
+5. [Emotion recognition in speech using crossmodal transfer in the wild](https://arxiv.org/pdf/1808.05561.pdf). Albanie, S., Nagrani, A., Vedaldi, A. & Zisserman, A. (2018). ACM MM.
+6. [Learning and generalization in overparameterized neural networks going beyond two layers](https://arxiv.org/pdf/1811.04918.pdf). Allen-Zhu, Z., Li, Y., & Liang, Y. (2019). NeurIPS.
+7. [Large scale distributed neural network training through online distillation](https://arxiv.org/pdf/1804.03235.pdf). Anil, R., Pereyra, G., Passos, A., Ormandi, R., Dahl, G.
+E.. & Hinton, G. E. (2018). ICLR.
+8. [On the optimization of deep networks: Implicit acceleration by overparameterization](https://arxiv.org/pdf/1802.06509.pdf). Arora, S., Cohen, N., & Hazan, E. (2018). ICML.
+9. [On knowledge distillation from complex networks for response prediction](https://aclanthology.org/N19-1382.pdf). Arora, S., Khapra, M. M. & Ramaswamy, H. G. (2019). NAACL-HLT.
+10. [Domain adaptation of dnn acoustic models using knowledge distillation](https://ieeexplore.ieee.org/document/7953145). Asami, T., Masumura, R., Yamaguchi, Y., Masataki,
+H. & Aono, Y. (2017). ICASSP.
+11. [N2N learning: Network to network compression via policy gradient reinforcement learning](https://arxiv.org/pdf/1709.06030.pdf). Ashok, A., Rhinehart, N., Beainy, F. & Kitani, K. M. (2018). ICLR.
+12. [Ensemble knowledge distillation for learning improved and efficient networks](https://arxiv.org/pdf/1909.08097.pdf). Asif, U., Tang, J. & Harrer, S. (2020). ECAI.
+13. [Do deep nets really need to be deep?](https://arxiv.org/pdf/1312.6184.pdf). Ba, J. & Caruana, R. (2014). NeurIPS.
+14. [Label refinery: Improving imagenet classification through label progressio](https://arxiv.org/pdf/1805.02641.pdf). Bagherinezhad, H., Horton, M., Rastegari, M. &
+Farhadi, A. (2018).
+15. [Few shot network compression via cross distillation](https://arxiv.org/pdf/1911.09450.pdf). Bai, H., Wu, J., King, I. & Lyu, M. (2020). AAAI.
+16. [Learn spelling from teachers: transferring knowledge from language models to sequence-to-sequence speech recognition](https://arxiv.org/pdf/1907.06017.pdf). Bai, Y., Yi, J., Tao, J., Tian, Z. &Wen, Z. (2019). Interspeech.
+17. [Teacher guided architecture search](https://arxiv.org/pdf/1808.01405.pdf). Bashivan, P., Tensen, M. & DiCarlo, J. J. (2019). ICCV.
+18. [Adversarial network compression](https://arxiv.org/pdf/1803.10750.pdf). Belagiannis, V., Farshad, A. & Galasso, F. (2018). ECCV.
+19. [Representation learning: A review and new perspectives](https://arxiv.org/pdf/1206.5538.pdf). Bengio, Y., Courville, A., & Vincent, P. (2013). IEEE TPAMI 35(8): 1798–1828.
+20. [Uninformed students: Student-teacher anomaly detection with discriminative latent embeddings](https://arxiv.org/pdf/1911.02357.pdf). Bergmann, P., Fauser, M., Sattlegger, D., & Steger, C. (2020). CVPR.
+21. [Efficient video classification using fewer frames](https://arxiv.org/pdf/1902.10640.pdf). Bhardwaj, S., Srinivasan, M. & Khapra, M. M. (2019). CVPR.
+22. [Distributed Distillation for On-Device Learning](https://proceedings.neurips.cc/paper/2020/file/fef6f971605336724b5e6c0c12dc2534-Paper.pdf). Bistritz, I., Mann, A., & Bambos, N. (2020). NeurIPS.
+23. [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/pdf/2006.08572.pdf). Bohdal, O., Yang, Y., & Hospedales, T. (2020).
+24. [Stochastic Precision Ensemble: Self-Knowledge Distillation for Quantized Deep Neural Networks](https://arxiv.org/pdf/2009.14502.pdf). Boo, Y., Shin, S., Choi, J., & Sung, W. (2021). AAAI.
+25. [Why do Larger Models Generalize Better? A Theoretical Perspective via the XOR Problem](https://arxiv.org/pdf/1810.03037.pdf). Brutzkus, A., & Globerson, A. (2019). ICML.
+26. [Model compression](https://dl.acm.org/doi/10.1145/1150402.1150464). Bucilua, C., Caruana, R. & Niculescu-Mizil, A. (2006). SIGKDD.
+27. [Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning](https://arxiv.org/pdf/2003.05856.pdf). Caccia, M., Rodriguez, P., Ostapenko, O., Normandin, F., Lin, M., Caccia, L., Laradji, I., Rish, I., Lacoste, A., Vazquez D., & Charlin, L. (2020). NeurIPS.
+28. [Transferring knowledge from a rnn to a DNN](https://arxiv.org/pdf/1504.01483.pdf). Chan, W., Ke, N. R. & Lane, I. (2015).
+29. [Data-Free Knowledge Distillation for Object Detection](https://openaccess.thecvf.com/content/WACV2021/papers/Chawla_Data-Free_Knowledge_Distillation_for_Object_Detection_WACV_2021_paper.pdf). Chawla, A., Yin, H., Molchanov, P., & Alvarez, J. (2021). WACV.
+30. [Distilling knowledge from ensembles of neural networks for speech recognition](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/1190.PDF). Chebotar, Y. & Waters, A. (2016). Interspeech.
+31. [Online knowledge distillation with diverse peers](https://arxiv.org/pdf/1912.00350.pdf). Chen, D., Mei, J. P., Wang, C., Feng, Y. & Chen, C. (2020a). AAAI.
+32. [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/pdf/2012.03236.pdf). Chen, D., Mei, J. P., Zhang, Y., Wang, C., Wang, Z., Feng, Y., & Chen, C. (2021).  AAAI.
+33. [Learning efficient object detection models with knowledge distillation](https://papers.nips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf). Chen, G., Choi, W., Yu, X., Han, T., & Chandraker, M. (2017). NeurIPS.
+35. [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf)
+36. [Fast Human Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
+37. [CONDITIONAL TEACHER-STUDENT LEARNING](https://arxiv.org/pdf/1904.12399.pdf)
+38. [Distilling the knowledge in a neural network](https://arxiv.org/pdf/1503.02531.pdf).Hinton, G., Vinyals, O. & Dean, J. (2015).
+39. [Learning with Side Information through Modality Hallucination](https://saurabhg.web.illinois.edu/pdfs/hoffman2016learning.pdf).Hoffman, J., Gupta, S. & Darrell, T. (2016). CVPR.
+40. [GAN-Knowledge Distillation for one-stage Object Detection](https://arxiv.org/pdf/1906.08467.pdf). Hong, W. & Yu, J. (2019).
+41. [Learning lightweight lane detection cnns by self attention distillation](https://arxiv.org/pdf/1908.00821.pdf). Hou, Y., Ma, Z., Liu, C. & Loy, CC. (2019). ICCV.
+42. [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/pdf/2004.05304.pdf). Hou, Y., Ma, Z., Liu, C., Hui, T. W., & Loy, C. C.(2020). CVPR.
+43. [Mobilenets: Efficient convolutional neural networks for mobile vision applications](https://arxiv.org/pdf/1704.04861.pdf). Howard, A. G., Zhu, M., Chen, B., Kalenichenko,
 D., Wang, W., Weyand, T., Andreetto, M., & Adam, H. (2017).
 10. [Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing](https://arxiv.org/pdf/2004.00280.pdf). Hu, H., Xie, L., Hong, R., & Tian, Q. (2020). CVPR.
 11. [Attention-guided answer distillation for machine reading comprehension](https://arxiv.org/pdf/1808.07644.pdf). Hu, M., Peng, Y., Wei, F., Huang, Z., Li, D., Yang, N.
