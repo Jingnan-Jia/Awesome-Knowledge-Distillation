@@ -43,6 +43,69 @@ Farhadi, A. (2018).
 31. [Online knowledge distillation with diverse peers](https://arxiv.org/pdf/1912.00350.pdf). Chen, D., Mei, J. P., Wang, C., Feng, Y. & Chen, C. (2020a). AAAI.
 32. [Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/pdf/2012.03236.pdf). Chen, D., Mei, J. P., Zhang, Y., Wang, C., Wang, Z., Feng, Y., & Chen, C. (2021).  AAAI.
 33. [Learning efficient object detection models with knowledge distillation](https://papers.nips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf). Chen, G., Choi, W., Yu, X., Han, T., & Chandraker, M. (2017). NeurIPS.
+34. [Data-Free Learning of Student Networks](https://arxiv.org/pdf/1904.01186.pdf). Chen, H., Wang, Y., Xu, C., Yang, Z., Liu, C., Shi, B., Xu, C., Xu, C., &Tian, Q. (2019a). ICCV.
+35. [Learning student networks via feature embedding](https://arxiv.org/pdf/1812.06597.pdf). Chen, H., Wang, Y., Xu, C., Xu, C. & Tao, D. (2021). IEEE TNNLS 32(1): 25-35.
+36. [Net2Net: ACCELERATING LEARNING VIA KNOWLEDGE TRANSFER](https://arxiv.org/pdf/1511.05641.pdf). Chen, T., Goodfellow, I. & Shlens, J. (2016). ICLR.
+37. [Knowledge distillation with feature maps for image classification](https://arxiv.org/pdf/1812.00660.pdf). Chen, W. C., Chang, C. C. & Lee, C. R. (2018a). ACCV.
+38. [Adversarial distillation for efficient recommendation with external knowledge](https://dl.acm.org/doi/10.1145/3281659). Chen, X., Zhang, Y., Xu, H., Qin, Z. & Zha, H. (2018b). ACM TOIS 37(1): 1–28.
+39. [A two-teacher tramework for knowledge distillation](https://link.springer.com/content/pdf/10.1007%2F978-3-030-22796-8.pdf). Chen, X., Su, J. & Zhang, J. (2019b). ISNN.
+40. [Darkrank: Accelerating deep metric learning via cross sample similarities transfer](https://arxiv.org/pdf/1707.01220.pdf). Chen, Y., Wang, N. & Zhang, Z. (2018c). AAAI.
+41. [Distilling knowledge learned in BERT for text generation](https://arxiv.org/pdf/1911.03829.pdf). Chen, Y. C., Gan, Z., Cheng, Y., Liu, J., & Liu, J. (2020b). ACL.
+42. [Crdoco: Pixel-level domain transfer with cross-domain consistency](https://arxiv.org/pdf/2001.03182.pdf). Chen, Y. C., Lin, Y. Y., Yang, M. H., Huang, J. B.
+(2019c). CVPR.
+43. [Lifelong Machine Learning, Second Edition Synthesis Lectures on Artificial Intelligence and Machine Learning](https://www.morganclaypool.com/doi/abs/10.2200/S00832ED1V01Y201802AIM037). Chen, Z. & Liu, B. (2018).  12(3): 1–207. 
+44. [A Multi-task Mean Teacher for Semi-supervised Shadow Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_A_Multi-Task_Mean_Teacher_for_Semi-Supervised_Shadow_Detection_CVPR_2020_paper.pdf). Chen, Z., Zhu, L., Wan, L., Wang, S., Feng, W., & Heng, P. A. (2020c). CVPR.
+45. [Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/document/8253600). Cheng, Y., Wang, D., Zhou, P. & Zhang, T. (2018). IEEE Signal Proc Mag 35(1): 126–136.
+46. [Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/pdf/2003.03622.pdf). Cheng, X., Rao, Z., Chen, Y., & Zhang, Q. (2020). CVPR.
+47. [On the efficacy of knowledge distillation](https://arxiv.org/pdf/1910.01348.pdf). Cho, J. H. & Hariharan, B. (2019). ICCV.
+48. [Xception: Deep learning with depthwise separable convolutions](https://arxiv.org/pdf/1610.02357.pdf). Chollet, F. (2017). CVPR.
+49. [Feature-map-level online adversarial knowledge distillation](https://arxiv.org/pdf/2002.01775.pdf). Chung, I., Park, S., Kim, J. & Kwak, N. (2020). ICML.
+50. [Bam! born-again multitask networks for natural language understanding](https://arxiv.org/pdf/1907.04829.pdf). Clark, K., Luong, M. T., Khandelwal, U., Manning,
+C. D. & Le, Q. V. (2019). ACL.
+51.[Binaryconnect: Training deep neural networks with binary weights during propagations](https://arxiv.org/pdf/1511.00363.pdf). Courbariaux, M., Bengio, Y. & David, J. P. (2015). NeurIPS.
+52.[Moonshine: Distilling with cheap convolutions](https://arxiv.org/pdf/1711.02613.pdf). Crowley, E. J., Gray, G. & Storkey, A. J. (2018). NeurIPS.
+53. [Knowledge distillation across ensembles of multilingual models or low-resource languages](https://ieeexplore.ieee.org/document/7953073). Cui, J., Kingsbury, B., Ramabhadran, B., Saon, G., Sercu, T., Audhkhasi, K. & et al. (2017).ICASSP.
+54. [Knowledge Augmented Deep Neural Networks for Joint Facial Expression and Action Unit Recognition](https://proceedings.neurips.cc/paper/2020/file/a51fb975227d6640e4fe47854476d133-Paper.pdf). Cui, Z., Song, T., Wang, Y., & Ji, Q. (2020). NeurIPS.
+55. [Defocus Blur Detection via Depth Distillation](https://arxiv.org/pdf/2007.08113.pdf). Cun, X., & Pun, C. M. (2020). ECCV.
+56. [ImageNet: A large-scale hierarchical image database](https://ieeexplore.ieee.org/document/5206848). Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-
+Fei, L. (2009). CVPR.
+Denton, E. L., Zaremba, W., Bruna, J., LeCun, Y. &
+Fergus, R. (2014). Exploiting linear structure within
+convolutional networks for efficient evaluation. In:
+NeurIPS.
+Devlin, J., Chang, M. W., Lee, K. & Toutanova, K.
+(2019). Bert: Pre-training of deep bidirectional transformers
+for language understanding. In: NAACL-
+HLT .
+Ding, Q., Wu, S., Sun, H., Guo, J. & Xia, ST. (2019).
+Adaptive regularization of labels. arXiv preprint
+arXiv:1908.05474.
+Do, T., Do, T. T., Tran, H., Tjiputra, E. & Tran, Q.
+D. (2019). Compact trilinear interaction for visual
+question answering. In: ICCV.
+Dong, X. & Yang, Y. (2019). Teacher supervises
+students how to learn from partially labeled images
+for facial landmark detection. In: ICCV.
+Dou, Q., Liu, Q., Heng, P. A., & Glocker, B. (2020).
+Unpaired multi-modal segmentation via knowledge
+distillation. IEEE TMI 39(7): 2415-2425.
+Du, S., You, S., Li, X., Wu, J., Wang, F., Qian, C.,
+& Zhang, C. (2020). Agree to Disagree: Adaptive
+Ensemble Knowledge Distillation in Gradient Space.
+In: NeurIPS.
+Duong, C. N., Luu, K., Quach, K. G. & Le, N.
+(2019.) ShrinkTeaNet: Million-scale lightweight face
+recognition via shrinking teacher-student networks.
+arXiv preprint arXiv:1905.10620.
+Fakoor, R., Mueller, J. W., Erickson, N., Chaudhari,
+P., & Smola, A. J. (2020). Fast, Accurate, and Simple
+Models for Tabular Data via Augmented Distillation.
+In: NeurIPS.
+Flennerhag, S., Moreno, P. G., Lawrence, N. D. &
+Damianou, A. (2019). Transferring knowledge across
+learning processes. In: ICLR.
+Freitag, M., Al-Onaizan, Y. & Sankaran, B. (2017).
+Ensemble distillation for neural machine translation.
 35. [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf)
 36. [Fast Human Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
 37. [CONDITIONAL TEACHER-STUDENT LEARNING](https://arxiv.org/pdf/1904.12399.pdf)
