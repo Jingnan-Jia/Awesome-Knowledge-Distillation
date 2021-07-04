@@ -69,17 +69,11 @@ C. D. & Le, Q. V. (2019). ACL.
 55. [Defocus Blur Detection via Depth Distillation](https://arxiv.org/pdf/2007.08113.pdf). Cun, X., & Pun, C. M. (2020). ECCV.
 56. [ImageNet: A large-scale hierarchical image database](https://ieeexplore.ieee.org/document/5206848). Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-
 Fei, L. (2009). CVPR.
-Denton, E. L., Zaremba, W., Bruna, J., LeCun, Y. &
-Fergus, R. (2014). Exploiting linear structure within
-convolutional networks for efficient evaluation. In:
-NeurIPS.
-Devlin, J., Chang, M. W., Lee, K. & Toutanova, K.
-(2019). Bert: Pre-training of deep bidirectional transformers
-for language understanding. In: NAACL-
-HLT .
-Ding, Q., Wu, S., Sun, H., Guo, J. & Xia, ST. (2019).
-Adaptive regularization of labels. arXiv preprint
-arXiv:1908.05474.
+57. [Exploiting linear structure within convolutional networks for efficient evaluation](https://arxiv.org/pdf/1404.0736.pdf). Denton, E. L., Zaremba, W., Bruna, J., LeCun, Y. &
+Fergus, R. (2014).NeurIPS.
+58. [Bert: Pre-training of deep bidirectional transformers for language understanding](https://arxiv.org/pdf/1810.04805.pdf) Devlin, J., Chang, M. W., Lee, K. & Toutanova, K.
+(2019). NAACL-HLT.
+59. [Adaptive regularization of labels](https://arxiv.org/pdf/1908.05474.pdf) Ding, Q., Wu, S., Sun, H., Guo, J. & Xia, ST. (2019).
 Do, T., Do, T. T., Tran, H., Tjiputra, E. & Tran, Q.
 D. (2019). Compact trilinear interaction for visual
 question answering. In: ICCV.
