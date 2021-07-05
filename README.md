@@ -81,88 +81,44 @@ D. (2019). ICCV.
 65. [Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation](https://arxiv.org/pdf/2006.14284.pdf) Fakoor, R., Mueller, J. W., Erickson, N., Chaudhari, P., & Smola, A. J. (2020). NeurIPS.
 66. [Transferring knowledge across learning processes](https://arxiv.org/pdf/1812.01054.pdf) Flennerhag, S., Moreno, P. G., Lawrence, N. D. & Damianou, A. (2019). ICLR.
 67. [Ensemble distillation for neural machine translation](https://arxiv.org/pdf/1702.01802.pdf) Freitag, M., Al-Onaizan, Y. & Sankaran, B. (2017).
-68. Fu, H., Zhou, S., Yang, Q., Tang, J., Liu, G., Liu, K., & Li, X. (2021). LRC-BERT: Latent representation Contrastive Knowledge Distillation for Natural Language Understanding. In: AAAI.
-Fukuda, T., Suzuki, M., Kurata, G., Thomas, S., Cui, J. & Ramabhadran, B. (2017). Efficient knowledge
-distillation from an ensemble of teachers. In:
-Interspeech.
-Furlanello, T., Lipton, Z., Tschannen, M., Itti, L. & Anandkumar, A. (2018). Born again neural networks.
-In: ICML.
-Gao, L., Mi, H., Zhu, B., Feng, D., Li, Y. & Peng, Y. (2019). An adversarial feature distillation method for
-audio classification. IEEE Access 7: 105319–105330.
-Gao, M., Wang, Y., & Wan, L. (2021). Residual Error Based Knowledge Distillation. Neurocomputing 433:
-154-161.
-Gao, Z., Chung, J., Abdelrazek, M., Leung, S., Hau,W. K., Xian, Z., Zhang, H., & Li, S. (2020). Privileged
-modality distillation for vessel border detection in
-intracoronary imaging. IEEE TMI 39(5): 1524-1534.
-Garcia, N. C., Morerio, P. & Murino, V. (2018). Modality distillation with multiple stream networks
-for action recognition. In: ECCV.
-Ge, S., Zhao, S., Li, C. & Li, J. (2018). Low-resolution face recognition in the wild via selective knowledge
-distillation. IEEE TIP 28(4):2051–2062.
-Ge, S., Zhao, S., Li, C., Zhang, Y., & Li, J. (2020). Efficient Low-Resolution Face Recognition via Bridge Distillation. IEEE TIP 29: 6898-6908.
-Ghorbani, S., Bulut, A. E. & Hansen, J. H. (2018). Advancing multi-accented lstm-ctc speech recognition using a domain specific student-teacher
-learning paradigm. In: SLTW.
-Gil, Y., Chai, Y., Gorodissky, O. & Berant, J. (2019). White-to-black: Efficient distillation of black-box adversarial attacks. In: NAACL-HLT.
-Goldblum, M., Fowl, L., Feizi, S. & Goldstein, T.
-(2020). Adversarially robust distillation. In: AAAI.
-Gong, C., Chang, X., Fang, M. & Yang, J. (2018). Teaching semi-supervised classifier via generalized distillation. In: IJCAI.
-Gong, C., Tao, D., Liu, W., Liu, L., & Yang, J. (2017). Label propagation via teaching-to-learn and learningto-teach. TNNLS 28(6): 1452–1465.
-Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio,
-Y. (2014). Generative adversarial nets. In: NeurIPS.
-Gordon, M. A. & Duh, K. (2019). Explaining sequencelevel knowledge distillation as data-augmentation
-for neural machine translation. arXiv preprint
-arXiv:1912.03334.
-Gu, J., & Tresp, V. (2020). Search for Better Students to Learn Distilled Knowledge. In: ECAI.
-Guan, Y., Zhao, P., Wang, B., Zhang, Y., Yao, C.,
-Bian, K., & Tang, J. (2020). Differentiable Feature Aggregation Search for Knowledge Distillation. In:
-ECCV.
-Guo, Q., Wang, X., Wu, Y., Yu, Z., Liang, D., Hu, X., & Luo, P. (2020). Online Knowledge Distillation via
-Collaborative Learning. In: CVPR.
-Gupta, S., Hoffman, J. & Malik, J. (2016). Cross modal distillation for supervision transfer. In: CVPR.
-Hahn, S. & Choi, H. (2019). Self-knowledge distillation
-in natural language processing. In: RANLP.
-Haidar, M. A. & Rezagholizadeh, M. (2019). Textkdgan: Text generation using knowledge distillation
-and generative adversarial networks. In: Canadian
-Conference on Artificial Intelligence.
-Han, S., Pool, J., Tran, J. & Dally, W. (2015). Learning both weights and connections for efficient neural
-network. In: NeurIPS.
-Hao, W. & Zhang, Z. (2019). Spatiotemporal distilled dense-connectivity network for video action recognition.
-Pattern Recogn 92: 13–24.
-Haroush, M., Hubara, I., Hoffer, E., & Soudry, D. (2020). The knowledge within: Methods for data-free
-model compression. In: CVPR.
-He, C., Annavaram, M., & Avestimehr, S. (2020a).
-Group Knowledge Transfer: Federated Learning of
-Large CNNs at the Edge. In: NeurIPS.
-He, F., Liu, T., & Tao, D. (2020b). Why resnet works?
-residuals generalize. IEEE TNNLS 31(12): 5349–
-5362.
-He, K., Zhang, X., Ren, S. & Sun, J. (2016) Deep
-residual learning for image recognition. In: CVPR.
-He, T., Shen, C., Tian, Z., Gong, D., Sun, C. & Yan, Y.
-(2019). Knowledge adaptation for efficient semantic
-segmentation. In: CVPR.
-Heo, B., Kim, J., Yun, S., Park, H., Kwak, N., & Choi, J. Y. (2019a). A comprehensive overhaul of feature
-distillation. In: ICCV.
-Heo, B., Lee, M., Yun, S. & Choi, J. Y. (2019b).
-Knowledge distillation with adversarial samples supporting decision boundary. In: AAAI.
-Heo, B., Lee, M., Yun, S. & Choi, J. Y. (2019c).
-Knowledge transfer via distillation of activation
-boundaries formed by hidden neurons. In: AAAI.
-Hinton, G., Vinyals, O. & Dean, J. (2015). Distilling
-the knowledge in a neural network. arXiv preprint
-arXiv:1503.02531.
-Hoffman, J., Gupta, S. & Darrell, T. (2016). Learning
-with side information through modality hallucination.
-In: CVPR.
-
-69. [Learning Efficient Object Detection Models with Knowledge Distillation](https://papers.nips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf)
-70. [Fast Human Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Fast_Human_Pose_Estimation_CVPR_2019_paper.pdf)
-71. [CONDITIONAL TEACHER-STUDENT LEARNING](https://arxiv.org/pdf/1904.12399.pdf)
-72. [Distilling the knowledge in a neural network](https://arxiv.org/pdf/1503.02531.pdf).Hinton, G., Vinyals, O. & Dean, J. (2015).
-73. [Learning with Side Information through Modality Hallucination](https://saurabhg.web.illinois.edu/pdfs/hoffman2016learning.pdf).Hoffman, J., Gupta, S. & Darrell, T. (2016). CVPR.
-74. [GAN-Knowledge Distillation for one-stage Object Detection](https://arxiv.org/pdf/1906.08467.pdf). Hong, W. & Yu, J. (2019).
-75. [Learning lightweight lane detection cnns by self attention distillation](https://arxiv.org/pdf/1908.00821.pdf). Hou, Y., Ma, Z., Liu, C. & Loy, CC. (2019). ICCV.
-76. [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/pdf/2004.05304.pdf). Hou, Y., Ma, Z., Liu, C., Hui, T. W., & Loy, C. C.(2020). CVPR.
-77. [Mobilenets: Efficient convolutional neural networks for mobile vision applications](https://arxiv.org/pdf/1704.04861.pdf). Howard, A. G., Zhu, M., Chen, B., Kalenichenko,
+68. [LRC-BERT: Latent representation Contrastive Knowledge Distillation for Natural Language Understanding](https://arxiv.org/pdf/2012.07335.pdf). Fu, H., Zhou, S., Yang, Q., Tang, J., Liu, G., Liu, K., & Li, X. (2021). AAAI.
+69. [Efficient knowledge distillation from an ensemble of teachers](https://arxiv.org/pdf/1909.08097.pdf). Fukuda, T., Suzuki, M., Kurata, G., Thomas, S., Cui, J. & Ramabhadran, B. (2017). Interspeech.
+70. [Born again neural networks](https://arxiv.org/pdf/1805.04770.pdf). Furlanello, T., Lipton, Z., Tschannen, M., Itti, L. & Anandkumar, A. (2018). ICML.
+71. [An adversarial feature distillation method for audio classification](https://ieeexplore.ieee.org/abstract/document/8778636). Gao, L., Mi, H., Zhu, B., Feng, D., Li, Y. & Peng, Y. (2019). IEEE Access 7: 105319–105330.
+72. [Residual Error Based Knowledge Distillation](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318117). Gao, M., Wang, Y., & Wan, L. (2021). Neurocomputing 433: 154-161.
+73. [Privileged modality distillation for vessel border detection in intracoronary imaging](https://ieeexplore.ieee.org/document/8896024). Gao, Z., Chung, J., Abdelrazek, M., Leung, S., Hau,W. K., Xian, Z., Zhang, H., & Li, S. (2020). IEEE TMI 39(5): 1524-1534.
+74. [Modality distillation with multiple stream networks for action recognition](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Nuno_Garcia_Modality_Distillation_with_ECCV_2018_paper.pdf). Garcia, N. C., Morerio, P. & Murino, V. (2018). ECCV.
+75. [Low-resolution face recognition in the wild via selective knowledge distillation](https://arxiv.org/pdf/1811.09998.pdf). Ge, S., Zhao, S., Li, C. & Li, J. (2018). IEEE TIP 28(4):2051–2062.
+76. [Efficient Low-Resolution Face Recognition via Bridge Distillation](https://ieeexplore.ieee.org/document/9098036). Ge, S., Zhao, S., Li, C., Zhang, Y., & Li, J. (2020). IEEE TIP 29: 6898-6908.
+77. [Advancing multi-accented lstm-ctc speech recognition using a domain specific student-teacher learning paradigm](https://arxiv.org/pdf/1809.06833.pdf). Ghorbani, S., Bulut, A. E. & Hansen, J. H. (2018). SLTW.
+78. [White-to-black: Efficient distillation of black-box adversarial attacks](https://arxiv.org/pdf/1904.02405.pdf). Gil, Y., Chai, Y., Gorodissky, O. & Berant, J. (2019). NAACL-HLT.
+79. [Adversarially robust distillation](https://arxiv.org/pdf/1905.09747.pdf). Goldblum, M., Fowl, L., Feizi, S. & Goldstein, T. (2020). AAAI.
+80. [Teaching semi-supervised classifier via generalized distillation](https://www.ijcai.org/proceedings/2018/0298.pdf). Gong, C., Chang, X., Fang, M. & Yang, J. (2018). IJCAI.
+81. [Label propagation via teaching-to-learn and learningto-teach](https://ieeexplore.ieee.org/document/7447818). Gong, C., Tao, D., Liu, W., Liu, L., & Yang, J. (2017). TNNLS 28(6): 1452–1465.
+82. [Generative adversarial nets](https://arxiv.org/pdf/1406.2661.pdf). Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014).  NeurIPS.
+83. [Explaining sequencelevel knowledge distillation as data-augmentation for neural machine translation](https://arxiv.org/pdf/1912.03334.pdf). Gordon, M. A. & Duh, K. (2019).
+84. [Search for Better Students to Learn Distilled Knowledge](https://arxiv.org/pdf/2001.11612.pdf). Gu, J., & Tresp, V. (2020). ECAI.
+85. [Differentiable Feature Aggregation Search for Knowledge Distillation](https://arxiv.org/pdf/2008.00506.pdf). Guan, Y., Zhao, P., Wang, B., Zhang, Y., Yao, C., Bian, K., & Tang, J. (2020). ECCV.
+86. [Online Knowledge Distillation via Collaborative Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf). Guo, Q., Wang, X., Wu, Y., Yu, Z., Liang, D., Hu, X., & Luo, P. (2020). CVPR.
+87. [Cross modal istillation for supervision transfer](https://arxiv.org/pdf/1507.00448.pdf). Gupta, S., Hoffman, J. & Malik, J. (2016). CVPR.
+88. [Self-knowledge distillation in natural language processing](https://arxiv.org/pdf/1908.01851.pdf). Hahn, S. & Choi, H. (2019). RANLP.
+89. [Textkdgan: Text generation using knowledge distillation and generative adversarial networks](https://arxiv.org/pdf/1905.01976.pdf). Haidar, M. A. & Rezagholizadeh, M. (2019). Canadian Conference on Artificial Intelligence.
+90. [Learning both weights and connections for efficient neural network](https://arxiv.org/pdf/1506.02626.pdf). Han, S., Pool, J., Tran, J. & Dally, W. (2015). NeurIPS.
+91. [Spatiotemporal distilled dense-connectivity network for video action recognition](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301037?via%3Dihub). Hao, W. & Zhang, Z. (2019). Pattern Recogn 92: 13–24.
+92. [The knowledge within: Methods for data-free model compression](https://arxiv.org/pdf/1912.01274.pdf). Haroush, M., Hubara, I., Hoffer, E., & Soudry, D. (2020). CVPR.
+93. [Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge](https://arxiv.org/pdf/2007.14513.pdf). He, C., Annavaram, M., & Avestimehr, S. (2020a). NeurIPS.
+94. [ Why resnet works? residuals generalize](https://arxiv.org/pdf/1904.01367.pdf). He, F., Liu, T., & Tao, D. (2020b). IEEE TNNLS 31(12): 5349–5362.
+95. [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385.pdf). He, K., Zhang, X., Ren, S. & Sun, J. (2016). CVPR.
+96. [Knowledge adaptation for efficient semantic segmentation](https://arxiv.org/pdf/1903.04688.pdf). He, T., Shen, C., Tian, Z., Gong, D., Sun, C. & Yan, Y. (2019). CVPR.
+97. [A comprehensive overhaul of feature distillation](https://arxiv.org/pdf/1904.01866.pdf). Heo, B., Kim, J., Yun, S., Park, H., Kwak, N., & Choi, J. Y. (2019a). ICCV.
+98. [Knowledge distillation with adversarial samples supporting decision boundary](https://arxiv.org/pdf/1805.05532.pdf). Heo, B., Lee, M., Yun, S. & Choi, J. Y. (2019b). AAAI.
+99. [Knowledge transfer via distillation of activation boundaries formed by hidden neurons](https://arxiv.org/pdf/1811.03233.pdf). Heo, B., Lee, M., Yun, S. & Choi, J. Y.(2019c). AAAI.
+100. [Distilling the knowledge in a neural network](https://arxiv.org/pdf/1503.02531.pdf). Hinton, G., Vinyals, O. & Dean, J. (2015). 
+102. [Learning with Side Information through Modality Hallucination](https://saurabhg.web.illinois.edu/pdfs/hoffman2016learning.pdf).Hoffman, J., Gupta, S. & Darrell, T. (2016). CVPR.
+103. [GAN-Knowledge Distillation for one-stage Object Detection](https://arxiv.org/pdf/1906.08467.pdf). Hong, W. & Yu, J. (2019).
+104. [Learning lightweight lane detection cnns by self attention distillation](https://arxiv.org/pdf/1908.00821.pdf). Hou, Y., Ma, Z., Liu, C. & Loy, CC. (2019). ICCV.
+105. [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/pdf/2004.05304.pdf). Hou, Y., Ma, Z., Liu, C., Hui, T. W., & Loy, C. C.(2020). CVPR.
+106. [Mobilenets: Efficient convolutional neural networks for mobile vision applications](https://arxiv.org/pdf/1704.04861.pdf). Howard, A. G., Zhu, M., Chen, B., Kalenichenko,
 D., Wang, W., Weyand, T., Andreetto, M., & Adam, H. (2017).
 10. [Creating Something from Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing](https://arxiv.org/pdf/2004.00280.pdf). Hu, H., Xie, L., Hong, R., & Tian, Q. (2020). CVPR.
 11. [Attention-guided answer distillation for machine reading comprehension](https://arxiv.org/pdf/1808.07644.pdf). Hu, M., Peng, Y., Wei, F., Huang, Z., Li, D., Yang, N.
