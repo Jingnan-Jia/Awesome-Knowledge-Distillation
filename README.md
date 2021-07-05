@@ -387,4 +387,4 @@ Hu, W., & Zha, Z. J. (2020f). CVPR.
 255. [Low-resolution visual recognition via deep feature distillation](https://ieeexplore.ieee.org/document/8682926). Zhu,M., Han, K., Zhang, C., Lin, J. &Wang, Y. (2019). ICASSP.
 
 # Acknowledgement:
-Gou, J., Yu, B., Maybank, S. J., & Tao, D. (2021). [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf) International Journal of Computer Vision, 129(6), 1789-1819. 
+Gou, J., Yu, B., Maybank, S. J., & Tao, D. (2021). [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf) IJCV, 129(6), 1789-1819. 
