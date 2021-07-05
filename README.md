@@ -1,8 +1,7 @@
 # Awesome-Knowledge-Distillation
 Collection of papers on Knowledge Distillation
-The papers here are organized by the style described at [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf)
-# Introduction
-![image](https://user-images.githubusercontent.com/34941987/124362430-04fd0400-dc35-11eb-8d97-4b55d16d43d1.png)
+
+
 
 # Paper list
 1. [Spatial knowledge distillation to aid visual reasoning](https://arxiv.org/pdf/1812.03631.pdf). Aditya, S., Saha, R., Yang, Y. & Baral, C. (2019). WACV.
@@ -386,3 +385,6 @@ Hu, W., & Zha, Z. J. (2020f). CVPR.
 253. [Two-stage image classification supervised by a single teacher single student model](https://arxiv.org/ftp/arxiv/papers/1909/1909.12111.pdf). Zhou, J., Zeng, S. & Zhang, B. (2019b). BMVC.
 254. [M2KD: Incremental Learning via Multi-model and Multi-level Knowledge Distillation](https://arxiv.org/pdf/1904.01769.pdf). Zhou, P., Mai, L., Zhang, J., Xu, N., Wu, Z. & Davis, L. S. (2020). BMVC.
 255. [Low-resolution visual recognition via deep feature distillation](https://ieeexplore.ieee.org/document/8682926). Zhu,M., Han, K., Zhang, C., Lin, J. &Wang, Y. (2019). ICASSP.
+
+# Acknowledgement:
+Gou, J., Yu, B., Maybank, S. J., & Tao, D. (2021). [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf) International Journal of Computer Vision, 129(6), 1789-1819. 
