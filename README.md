@@ -1,4 +1,4 @@
-# Awesome Papers on Knowledge Distillation
+# Awesome Knowledge Distillation
 Collection of papers on Knowledge Distillation
 
 
