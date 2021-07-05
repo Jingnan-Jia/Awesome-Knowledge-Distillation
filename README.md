@@ -1,5 +1,5 @@
 # Awesome Knowledge Distillation
-Collection of papers on Knowledge Distillation. The PDF of each paper could be obtained by clicking the title.
+Collection of papers on Knowledge Distillation. **The PDF of each paper could be obtained by clicking the title.**
 
 
 
